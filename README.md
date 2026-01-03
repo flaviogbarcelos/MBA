@@ -12,3 +12,5 @@ Aprendendo **Git** e **GitHub**
 * Teste 2
 
 ######Atualizando o arquivo pela seguinda vez às 18:16###
+
+### Editado pelo Git Hub às 18:24######
