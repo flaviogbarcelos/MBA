@@ -1,19 +1,4 @@
+# mba
+Aprendendo Git e GitHub
 
-
-tewte MBA
-
-Aprendendo **Git** e **GitHub**
-
-
-
-##### Atualizando o arquivo pela primeira vez (03/01/2026 às 10:04)
-
-* Teste 1
-* Teste 2
-
-######Atualizando o arquivo pela seguinda vez às 18:16###
-
-### Editado pelo Git Hub às 18:24######
-
-
-##Criar uma nova branch pela primeira vez às 18:27#####
+Atualizando meu arquivo pela segunda vez
